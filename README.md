@@ -6,4 +6,4 @@ useful stuff for future reference
 model part: https://docs.fast.ai/basic_train.html#Learner.export
 
 processing part: https://stackoverflow.com/questions/57846411/how-to-directly-infer-an-image-with-transforms-using-fastai
-Note: modle architecture is required to load the model
+Note: model's architecture is required to load the model's weights
