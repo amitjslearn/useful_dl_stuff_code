@@ -10,3 +10,6 @@ Note: model's architecture is required to load the model's weights
 
 **resnet custom variable layers, scalable**
 https://github.com/FrancescoSaverioZuppichini/ResNet
+
+# Bookmarks
+https://nbviewer.jupyter.org/
