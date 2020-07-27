@@ -8,6 +8,10 @@ model part: https://docs.fast.ai/basic_train.html#Learner.export
 processing part: https://stackoverflow.com/questions/57846411/how-to-directly-infer-an-image-with-transforms-using-fastai
 Note: model's architecture is required to load the model's weights
 
+**Fastai model inference using pytorch**
+process = https://discuss.pytorch.org/t/did-any-one-know-how-to-load-the-pth-pre-trained-model-from-fastai-to-pytorch/69298/13
+code = https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5
+
 **resnet custom variable layers, scalable**
 https://github.com/FrancescoSaverioZuppichini/ResNet
 
