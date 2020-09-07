@@ -30,7 +30,8 @@ https://discuss.pytorch.org/t/extract-features-from-layer-of-submodule-of-a-mode
 https://nbviewer.jupyter.org/
 
 
-# Tensorflow 2.0 tutorials freeCodeCamp.org
+# Tensorflow 2.0 and keras tutorials freeCodeCamp.org [boiler-plate code for train, inference]
+
 📕 Module 2: Introduction to TensorFlow - https://colab.research.google.com/drive/1F_EWVKa8rbMXi3_fG0w7AtcscFq7Hi7B#forceEdit=true&sandboxMode=true
 
 📗 Module 3: Core Learning Algorithms - https://colab.research.google.com/drive/15Cyy2H7nT40sGR7TBN5wBvgTd57mVKay#forceEdit=true&sandboxMode=true
